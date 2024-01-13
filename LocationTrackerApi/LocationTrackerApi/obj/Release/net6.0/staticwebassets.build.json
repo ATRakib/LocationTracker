@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0/9IuZXkMXMnfp+E0dUuxSoXZfRTTdK5b6CHCNIHHe8=",
+  "Source": "LocationTrackerApi",
+  "BasePath": "_content/LocationTrackerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
